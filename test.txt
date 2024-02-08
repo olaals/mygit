@@ -17,3 +17,4 @@ drop: Remove the commit entirely.
 Added another thing
 Added another line
 Add an amend line
+Added another line from another copy of the project

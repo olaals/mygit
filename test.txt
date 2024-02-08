@@ -15,4 +15,5 @@ fixup: Like squash, but discard this commit's log message.
 drop: Remove the commit entirely.
 
 Added another thing
-Added another lien
+Added another line
+Add an amend line

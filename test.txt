@@ -13,3 +13,5 @@ edit: Stop at that commit to edit files (amend the commit).
 squash: Combine this commit with the previous one.
 fixup: Like squash, but discard this commit's log message.
 drop: Remove the commit entirely.
+
+Added another thing

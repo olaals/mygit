@@ -1,2 +1,15 @@
 
 Hello
+
+Another commit
+
+Some text:
+
+This opens an editor with a list of commits. You can:
+
+pick: Keep the commit as is.
+reword: Keep the commit but alter the commit message.
+edit: Stop at that commit to edit files (amend the commit).
+squash: Combine this commit with the previous one.
+fixup: Like squash, but discard this commit's log message.
+drop: Remove the commit entirely.
